@@ -7,6 +7,7 @@ Implementación de servidor web para NodeMCU (ESP32)
 
 ## Configuración
 **SSID**: Nombre de la red WiFi
+
 **Password**: Contraseña de la red WiFi
 
 ## Añadir rutas
